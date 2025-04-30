@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class HeroAnimator : MonoBehaviour
 {
-    private static readonly int MoveHash = Animator.StringToHash("Walk");
+    private static readonly int MoveHash = Animator.StringToHash("Speed");
     private static readonly int IdleHash = Animator.StringToHash("Idle");
 
     [SerializeField] private Animator _animator;
