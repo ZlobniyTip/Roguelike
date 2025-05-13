@@ -1,0 +1,1192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Gits\\Default\\Default\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\assetmanagement\\assetpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\assetmanagement\\assetpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\factory\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\factory\\gamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|d:\\unity\\gits\\default\\default\\assets\\scripts\\infrastructure\\assetmanagement\\assetprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\assetmanagement\\assetprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\editor\\levelstaticdataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\levelstaticdataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\editor\\spawnermarkereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\spawnermarkereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\staticdata\\enemyspawnerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticdata\\enemyspawnerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\editor\\uniqueideditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\uniqueideditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\editor\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5339669-3050-1FA1-8C66-5D95F951F797}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\staticdata\\staticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticdata\\staticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\enemyspawners\\spawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\enemyspawners\\spawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\enemyspawners\\spawnmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\enemyspawners\\spawnmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\services\\istaticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\services\\istaticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\states\\loadscenestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\states\\loadscenestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\factory\\igamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\factory\\igamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\staticdata\\levelstaticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticdata\\levelstaticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\data\\worlddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\worlddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\data\\lootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\lootdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\ui\\lootcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lootcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\lootspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\lootspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\data\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\loot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\gamebootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\gamebootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\ui\\actorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\actorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\lootpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\lootpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\staticdata\\monsterstaticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staticdata\\monsterstaticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\enemydeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemydeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\player\\herodeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\herodeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\agentmovetohero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\agentmovetohero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\AppData\\Local\\Temp\\Rar$DIa11304.24891.rartemp\\StaticDataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\rotatetohero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\rotatetohero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\data\\killdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\killdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\data\\playerprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\playerprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\uniqueid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\uniqueid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\monstertypeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\monstertypeid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\player\\heroattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heroattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\states\\loadprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\states\\loadprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\player\\heroanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heroanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\DataExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Data\\DataExtension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\services\\input\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\services\\input\\inputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\services\\input\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\services\\input\\iinputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\ui\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\UI\\ActorUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\aggro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\aggro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\player\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\player\\herohealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\herohealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Services\\Input\\InputService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\checkattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\checkattackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\PositionOnLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Data\\PositionOnLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\enemy\\physicsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\physicsdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\ianimationstatereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\ianimationstatereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\animatorstatereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\animatorstatereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\states\\gamerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\states\\gamerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\logic\\savetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\savetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\assets\\scripts\\infrastructure\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Services\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Infrastructure\\AssetManagement\\IAssetProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\Vector3Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Data\\Vector3Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\IAssets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Infrastructure\\States\\IAssets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7514828E-7DE2-CEC3-0456-1AF1F3072526}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\IHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\IHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\IHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\IHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\IRandomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy\\IRandomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelStaticDataEditor.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\LevelStaticDataEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\LevelStaticDataEditor.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\LevelStaticDataEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\LevelStaticDataEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:58:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnerMarkerEditor.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\SpawnerMarkerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\SpawnerMarkerEditor.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\SpawnerMarkerEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\SpawnerMarkerEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:54:38.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySpawnerData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\EnemySpawnerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticData\\EnemySpawnerData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\EnemySpawnerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticData\\EnemySpawnerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:23:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\Tools.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\Tools.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\Tools.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:40:02.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaticDataService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\StaticDataService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticData\\StaticDataService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\StaticDataService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticData\\StaticDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:03:57.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpawnPoint.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\EnemySpawners\\SpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\EnemySpawners\\SpawnPoint.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\EnemySpawners\\SpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\EnemySpawners\\SpawnPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:44:35.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpawnMarker.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\EnemySpawners\\SpawnMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\EnemySpawners\\SpawnMarker.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\EnemySpawners\\SpawnMarker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\EnemySpawners\\SpawnMarker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:45:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameFactory.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Factory\\GameFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\Factory\\GameFactory.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Factory\\GameFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\Factory\\GameFactory.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA4wEMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:31:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadSceneState.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\LoadSceneState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\LoadSceneState.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\LoadSceneState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\LoadSceneState.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAWwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:00:57.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGameFactory.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Factory\\IGameFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\Factory\\IGameFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:21:07.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetPath.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetPath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetPath.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetPath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStaticDataService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Services\\IStaticDataService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\Services\\IStaticDataService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Services\\IStaticDataService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\Services\\IStaticDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:12:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetProvider.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetProvider.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\AssetManagement\\AssetProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:27:08.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniqueIdEditor.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\UniqueIdEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\UniqueIdEditor.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Editor\\UniqueIdEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\UniqueIdEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:09:42.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LevelStaticData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\LevelStaticData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticData\\LevelStaticData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\LevelStaticData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticData\\LevelStaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:21:36.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LootCounter.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\LootCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LootCounter.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\LootCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LootCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:38:55.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRandomService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\IRandomService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\IRandomService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\IRandomService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\IRandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:51:20.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BootstrapState.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\BootstrapState.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:23:14.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Attack.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Attack.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:02:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorldData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\WorldData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\WorldData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\WorldData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\WorldData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:54:55.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MonsterStaticData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\MonsterStaticData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaticData\\MonsterStaticData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\StaticData\\MonsterStaticData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaticData\\MonsterStaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:05:20.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameBootstrapper.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\GameBootstrapper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\GameBootstrapper.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\GameBootstrapper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\GameBootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:59:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ActorUI.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\ActorUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ActorUI.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\ActorUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ActorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:25:50.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameStateMachine.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\GameStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:51:17.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Loot.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\Loot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Loot.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\Loot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Loot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:46:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LootSpawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\LootSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\LootSpawner.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\LootSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\LootSpawner.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LootData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\LootData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\LootData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\LootData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\LootData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:11:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LootPiece.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\LootPiece.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\LootPiece.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\LootPiece.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\LootPiece.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:04:49.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StaticDataService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\AppData\\Local\\Temp\\Rar$DIa11304.24891.rartemp\\StaticDataService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\AppData\\Local\\Temp\\Rar$DIa11304.24891.rartemp\\StaticDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:55:39.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\SceneLoader.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\SceneLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:24:44.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyDeath.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyDeath.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyDeath.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:23:59.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HeroDeath.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HeroDeath.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HeroDeath.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:03:46.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AgentMoveToHero.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\AgentMoveToHero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\AgentMoveToHero.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\AgentMoveToHero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\AgentMoveToHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:42:19.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RotateToHero.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\RotateToHero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\RotateToHero.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\RotateToHero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\RotateToHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:23:37.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AllServices.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\Services\\AllServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:21:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PlayerProgress.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\PlayerProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PlayerProgress.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\PlayerProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PlayerProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:50:18.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KillData.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\KillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\KillData.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\KillData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\KillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:02:24.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MonsterTypeId.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\MonsterTypeId.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\MonsterTypeId.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\MonsterTypeId.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\MonsterTypeId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:50:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UniqueId.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\UniqueId.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\UniqueId.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\UniqueId.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\UniqueId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:08:35.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HealthBar.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:08:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PositionOnLevel.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\PositionOnLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PositionOnLevel.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\PositionOnLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PositionOnLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:56:40.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HeroAnimator.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HeroAnimator.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HeroAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:29:36.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataExtension.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\DataExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\DataExtension.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\DataExtension.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\DataExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:57:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SaveLoadService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\SaveLoad\\SaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:49:54.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoadProgressState.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\LoadProgressState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\LoadProgressState.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\LoadProgressState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\LoadProgressState.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:26:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:12:49.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\Input\\InputService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\Input\\InputService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\Input\\InputService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\Input\\InputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:08:42.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IInputService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\Input\\IInputService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\Input\\IInputService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\Input\\IInputService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\Input\\IInputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:11:26.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ActorUI.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\UI\\ActorUI.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\UI\\ActorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:42:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnemyAnimator.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimator.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\EnemyAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAnimator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:42:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CheckAttackRange.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\CheckAttackRange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CheckAttackRange.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\CheckAttackRange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CheckAttackRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:02:49.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\IHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\IHealth.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\IHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\IHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:27:32.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HeroAttack.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HeroAttack.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HeroAttack.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBJwDYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:45:51.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LookAtCamera.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\UI\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LookAtCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:44:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "InputService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Services\\Input\\InputService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\knowledge-is-power-master\\src\\KnowledgeIsPower\\Assets\\CodeBase\\Services\\Input\\InputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:11:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HeroMove.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HeroMove.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HeroMove.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:33:18.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Aggro.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\Aggro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Aggro.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\Aggro.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Aggro.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwDwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:49:11.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HeroHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\HeroHealth.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Player\\HeroHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\HeroHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:36:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AnimatorStateReporter.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\AnimatorStateReporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\AnimatorStateReporter.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\AnimatorStateReporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\AnimatorStateReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:57:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PhysicsDebug.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\PhysicsDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\PhysicsDebug.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Enemy\\PhysicsDebug.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\PhysicsDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:52:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\IHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IHealth.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\IHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:45:10.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IAnimationStateReader.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\IAnimationStateReader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\IAnimationStateReader.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\IAnimationStateReader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\IAnimationStateReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:55:53.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IAssetProvider.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:53:11.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\CodeBase\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:54:13.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ISavedProgress.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\PersistentProgress\\ISavedProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:49:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GameRunner.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\GameRunner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\GameRunner.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\GameRunner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\GameRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:56:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SaveTrigger.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\SaveTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\SaveTrigger.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Logic\\SaveTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\SaveTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:52:36.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IPersistentProgressService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\PersistentProgress\\IPersistentProgressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:44:54.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Vector3Data.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\Vector3Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\Vector3Data.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Data\\Vector3Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\Vector3Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:15:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\SaveLoad\\ISaveLoadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:36:48.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PersistentProgressService.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Services\\PersistentProgress\\PersistentProgressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:43:42.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\Game.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:03:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IAssets.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\IAssets.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\States\\IAssets.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\States\\IAssets.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\States\\IAssets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:43:38.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IAssetProvider.cs",
+              "DocumentMoniker": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "ToolTip": "D:\\Unity\\Gits\\Default\\Default\\Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\AssetManagement\\IAssetProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:33:30.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

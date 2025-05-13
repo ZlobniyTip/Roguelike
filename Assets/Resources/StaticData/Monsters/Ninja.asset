@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b44b1750395e54f9e3668af19a81da, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  MonsterTypeId: 0
+  Hp: 30
+  Damage: 20
+  MoveSpeed: 3
+  EffectiveDistance: 1.5
+  Cleavage: 0.5
+  MaxLoot: 1
+  MinLoot: 3
+  Prefab: {fileID: 8848174253251600027, guid: 9d4b0b3ea40f0d34990357bb59d54771, type: 3}

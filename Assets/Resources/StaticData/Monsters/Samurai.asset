@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b44b1750395e54f9e3668af19a81da, type: 3}
+  m_Name: Samurai
+  m_EditorClassIdentifier: 
+  MonsterTypeId: 10
+  Hp: 50
+  Damage: 10
+  MoveSpeed: 2
+  EffectiveDistance: 1.5
+  Cleavage: 0
+  MaxLoot: 1
+  MinLoot: 5
+  Prefab: {fileID: 8848174253251600027, guid: f2899c710bc102c47ad0d5637868b927, type: 3}

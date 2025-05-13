@@ -1,0 +1,23 @@
+using Assets.Scripts.Data;
+using TMPro;
+using UnityEngine;
+
+namespace Assets.Scripts.UI
+{
+    public class LootCounter : MonoBehaviour
+    {
+        [SerializeField] private TextMeshProUGUI _counter;
+
+        private WorldData _worldData;
+
+        public void Construct(WorldData data)
+        {
+            _worldData = data;
+            Debug.Log(_worldData.LootData);
+            _worldData.LootData.Changed += UpdateCounter;
+            UpdateCounter();
+        }
+
+        private void UpdateCounter() => _counter.text = $"{_worldData.LootData.Collected}";
+    }
+}
