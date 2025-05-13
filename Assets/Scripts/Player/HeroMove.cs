@@ -18,6 +18,8 @@ namespace Scripts.Player
         private IInputService _input;
         private Vector3 _movementVector;
 
+        private bool _isMoving = true;
+
         private void Awake()
         {
             _input = AllServices.Container.Single<IInputService>();
@@ -30,9 +32,41 @@ namespace Scripts.Player
             Move().Forget();
         }
 
+        public void StopMoving()
+        {
+            _isMoving = false;
+        }
+
+        public void UpdateProgress(PlayerProgress progress) =>
+            progress.WorldData.PositionOnLevel =
+                new PositionOnLevel(GetCurrentLevel(), transform.position.AsVectorData());
+
+        public void LoadProgress(PlayerProgress progress)
+        {
+            if (GetCurrentLevel() == progress.WorldData.PositionOnLevel.Level)
+            {
+                Vector3Data savedPosition = progress.WorldData.PositionOnLevel.Position;
+
+                if (savedPosition != null)
+                {
+                    Warp(to: savedPosition);
+                }
+            }
+        }
+
+        private static string GetCurrentLevel() =>
+             SceneManager.GetActiveScene().name;
+
+        private void Warp(Vector3Data to)
+        {
+            _controller.enabled = false;
+            transform.position = to.AsUnityVector().AddY(_controller.height);
+            _controller.enabled = true;
+        }
+
         private async UniTaskVoid Move()
         {
-            while (true)
+            while (_isMoving)
             {
                 _movementVector = Vector3.zero;
 
@@ -51,33 +85,6 @@ namespace Scripts.Player
 
                 await UniTask.NextFrame();
             }
-        }
-
-        public void UpdateProgress(PlayerProgress progress) =>
-            progress.WorldData.PositionOnLevel =
-                new PositionOnLevel(GetCurrentLevel(), transform.position.AsVectorData());
-
-        private static string GetCurrentLevel() =>
-             SceneManager.GetActiveScene().name;
-
-        public void LoadProgress(PlayerProgress progress)
-        {
-            if (GetCurrentLevel() == progress.WorldData.PositionOnLevel.Level)
-            {
-                Vector3Data savedPosition = progress.WorldData.PositionOnLevel.Position;
-
-                if (savedPosition != null)
-                {
-                    Warp(to: savedPosition);
-                }
-            }
-        }
-
-        private void Warp(Vector3Data to)
-        {
-            _controller.enabled = false;
-            transform.position = to.AsUnityVector();
-            _controller.enabled = true;
         }
     }
 }

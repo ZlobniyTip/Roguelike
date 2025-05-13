@@ -8,5 +8,7 @@ namespace Assets.Scripts.Services.Input
         Vector2 Axis { get; }
 
         bool IsAttackButtonUp { get; }
+
+        bool AttackButtonUp();
     }
 }

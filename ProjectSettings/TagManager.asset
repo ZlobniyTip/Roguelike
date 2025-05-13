@@ -8,6 +8,7 @@ TagManager:
   - InitialPoint
   - Animal
   - Water
+  - FxTemporaire
   layers:
   - Default
   - TransparentFX
@@ -15,6 +16,11 @@ TagManager:
   - 
   - Water
   - UI
+  - Player
+  - Aggro
+  - AttackZone
+  - Hittable
+  - PickUp
   - 
   - 
   - 
@@ -25,11 +31,6 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - Animal
   - 
   - 
   - 
