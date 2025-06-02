@@ -1,11 +1,13 @@
-﻿using Assets.Scripts.CameraLogic;
+﻿using System;
+using Assets.Scripts.CameraLogic;
 using Assets.Scripts.Infrastructure.Factory;
 using Assets.Scripts.Logic;
 using Assets.Scripts.Player;
 using Assets.Scripts.Services;
 using Assets.Scripts.Services.PersistentProgress;
 using Assets.Scripts.StaticData;
-using Assets.Scripts.UI;
+using Assets.Scripts.UI.Elements;
+using Assets.Scripts.UI.Services;
 using Scripts.Infrastructure;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -22,9 +24,10 @@ namespace Assets.Scripts.Infrastructure.States
         private readonly IGameFactory _gameFactory;
         private readonly IPersistentProgressService _progressService;
         private readonly IStaticDataService _staticData;
+        private readonly IUIFactory _uiFactory;
 
         public LoadSceneState(GameStateMachine stateMachine, SceneLoader sceneLoader,
-            LoadingCurtain loadingCurtain, IGameFactory gameFactory, IPersistentProgressService progressService, IStaticDataService staticData)
+            LoadingCurtain loadingCurtain, IGameFactory gameFactory, IPersistentProgressService progressService, IStaticDataService staticData, IUIFactory uiFactory)
         {
             _stateMachine = stateMachine;
             _sceneLoader = sceneLoader;
@@ -32,6 +35,7 @@ namespace Assets.Scripts.Infrastructure.States
             _gameFactory = gameFactory;
             _progressService = progressService;
             _staticData = staticData;
+            _uiFactory = uiFactory;
         }
 
         public void Enter(string sceneName)
@@ -48,11 +52,15 @@ namespace Assets.Scripts.Infrastructure.States
 
         private void OnLoaded()
         {
+            InitUIRoot();
             InitGameWorld();
             InformprogressReaders();
 
             _stateMachine.Enter<GameLoopState>();
         }
+
+        private void InitUIRoot() => 
+            _uiFactory.CreateUIRoot();
 
         private void InformprogressReaders()
         {

@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7514828E-7DE2-CEC3-0456-1AF1F3072526}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInput.Runtime", "SimpleInput.Runtime.csproj", "{A6389C2A-5E80-577C-283F-B27C58072B52}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Demo.Editor", "ToonyColorsPro.Demo.Editor.csproj", "{D93BD291-3117-CD4F-18A9-2263F34EB46D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7514828E-7DE2-CEC3-0456-1AF1F3072526}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInput.Editor", "SimpleInput.Editor.csproj", "{ED333B0B-828B-30DD-8B86-B7B082FF9A1A}"
 EndProject
@@ -25,6 +25,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A6389C2A-5E80-577C-283F-B27C58072B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A6389C2A-5E80-577C-283F-B27C58072B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6389C2A-5E80-577C-283F-B27C58072B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,10 +37,6 @@ Global
 		{D93BD291-3117-CD4F-18A9-2263F34EB46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93BD291-3117-CD4F-18A9-2263F34EB46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93BD291-3117-CD4F-18A9-2263F34EB46D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7514828E-7DE2-CEC3-0456-1AF1F3072526}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED333B0B-828B-30DD-8B86-B7B082FF9A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ED333B0B-828B-30DD-8B86-B7B082FF9A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED333B0B-828B-30DD-8B86-B7B082FF9A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU

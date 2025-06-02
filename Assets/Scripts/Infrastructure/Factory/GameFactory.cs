@@ -5,7 +5,8 @@ using Assets.Scripts.Services;
 using Assets.Scripts.Services.PersistentProgress;
 using Assets.Scripts.Services.Randomizer;
 using Assets.Scripts.StaticData;
-using Assets.Scripts.UI;
+using Assets.Scripts.UI.Elements;
+using Assets.Scripts.UI.Services.Windows;
 using Scripts.Infrastructure.AssetManagement;
 using Scripts.Logic.EnemySpawners;
 using UnityEngine;
@@ -18,6 +19,8 @@ namespace Assets.Scripts.Infrastructure.Factory
     {
         private readonly IAssetProvider _assets;
         private readonly IStaticDataService _staticData;
+        private readonly IWindowService _windowService;
+
         private IRandomService _randomService;
         private IPersistentProgressService _progressService;
 
@@ -26,26 +29,31 @@ namespace Assets.Scripts.Infrastructure.Factory
         public List<ISavedProgressReader> ProgressReaders { get; } = new List<ISavedProgressReader>();
         public List<ISavedProgress> ProgressWriters { get; } = new List<ISavedProgress>();
 
-        public GameFactory(IAssetProvider assets, IStaticDataService staticData, IRandomService random, IPersistentProgressService persistentProgressService)
+        public GameFactory(IAssetProvider assets, IStaticDataService staticData, IRandomService random, IPersistentProgressService persistentProgressService, IWindowService windowService)
         {
             _assets = assets;
             _staticData = staticData;
             _randomService = random;
             _progressService = persistentProgressService;
+            _windowService = windowService;
         }
 
         public GameObject CreateHud()
         {
             GameObject hud = InstantiateRegistered(AssetPath.HudPath);
-
             hud.GetComponentInChildren<LootCounter>().Construct(_progressService.Progress.WorldData);
+
+            foreach (WindowButton windowButton in hud.GetComponentsInChildren<WindowButton>())
+            {
+                windowButton.Construct(_windowService);
+            }
 
             return hud;
         }
 
         public LootPiece CreateLoot()
         {
-            LootPiece lootPiece = InstantiateRegistered(AssetPath.Loot).GetComponent<LootPiece>();
+            LootPiece lootPiece = InstantiateRegistered(AssetPath.LootPath).GetComponent<LootPiece>();
             lootPiece.Construct(_progressService.Progress.WorldData);
 
             return lootPiece;
@@ -65,7 +73,7 @@ namespace Assets.Scripts.Infrastructure.Factory
 
         public void CreateSpawner(Vector3 at, string spawnerId, MonsterTypeId monsterTypeId)
         {
-            SpawnPoint spawner = InstantiateRegistered(AssetPath.Spawner, at).GetComponent<SpawnPoint>();
+            SpawnPoint spawner = InstantiateRegistered(AssetPath.SpawnerPath, at).GetComponent<SpawnPoint>();
             spawner.Construct(this);
             spawner.Initialize(spawnerId, monsterTypeId);
         }

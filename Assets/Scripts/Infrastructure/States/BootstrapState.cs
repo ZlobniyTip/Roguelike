@@ -7,6 +7,9 @@ using Assets.Scripts.Services.PersistentProgress;
 using Assets.Scripts.Services.Randomizer;
 using Assets.Scripts.Services.SaveLoad;
 using Assets.Scripts.StaticData;
+using Assets.Scripts.UI.Services;
+using Assets.Scripts.UI.Services.Factory;
+using Assets.Scripts.UI.Services.Windows;
 using Scripts.Infrastructure;
 using Scripts.Infrastructure.AssetManagement;
 using UnityEngine;
@@ -42,15 +45,27 @@ namespace Assets.Scripts.Infrastructure.States
         {
             RegisterStaticData();
 
-            _services.RegisterSingle<IRandomService>(new RandomService());
-            _services.RegisterSingle<IInputService>(InputService());
-            _services.RegisterSingle<IPersistentProgressService>(new PersistentProgressService());
             _services.RegisterSingle<IAssetProvider>(new AssetProvider());
+            _services.RegisterSingle<IInputService>(InputService());
+            _services.RegisterSingle<IRandomService>(new RandomService());
+            _services.RegisterSingle<IPersistentProgressService>(new PersistentProgressService());
 
-            _services.RegisterSingle<IGameFactory>(new GameFactory(_services.Single<IAssetProvider>(), 
-                _services.Single<IStaticDataService>(), _services.Single<IRandomService>(), _services.Single<IPersistentProgressService>()));
+            _services.RegisterSingle<IUIFactory>(new UIFactory(
+                _services.Single<IAssetProvider>(),
+                _services.Single<IStaticDataService>(),
+                _services.Single<IPersistentProgressService>()));
+            
+            _services.RegisterSingle<IWindowService>(new WindowService(_services.Single<IUIFactory>()));
 
-            _services.RegisterSingle<ISaveLoadService>(new SaveLoadService(_services.Single<IPersistentProgressService>(),
+            _services.RegisterSingle<IGameFactory>(new GameFactory(
+                _services.Single<IAssetProvider>(), 
+                _services.Single<IStaticDataService>(), 
+                _services.Single<IRandomService>(), 
+                _services.Single<IPersistentProgressService>(),
+                _services.Single<IWindowService>()));
+
+            _services.RegisterSingle<ISaveLoadService>(new SaveLoadService(
+                _services.Single<IPersistentProgressService>(),
                 _services.Single<IGameFactory>()));
         }
 

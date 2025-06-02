@@ -58,9 +58,11 @@
     <Analyzer Include="D:\Unity\Unity 2022.3.7f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\UI\Windows\ShopWindow.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleAnimatorActionData.cs" />
     <Compile Include="Assets\Scripts\Logic\SaveTrigger.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\BootstrapState.cs" />
+    <Compile Include="Assets\Scripts\UI\Services\Windows\WindowService.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleLoopAnimator.cs" />
     <Compile Include="Assets\Scripts\Enemy\AnimateAlongAgent.cs" />
     <Compile Include="Assets\Scripts\Data\PositionOnLevel.cs" />
@@ -73,9 +75,9 @@
     <Compile Include="Assets\Scripts\Infrastructure\Factory\GameFactory.cs" />
     <Compile Include="Assets\Scripts\Services\Input\TouchInputService.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleXPBar.cs" />
-    <Compile Include="Assets\Scripts\UI\LookAtCamera.cs" />
     <Compile Include="Assets\Scripts\Logic\AnimatorStateReporter.cs" />
     <Compile Include="Assets\Scripts\Services\SaveLoad\SaveLoadService.cs" />
+    <Compile Include="Assets\Scripts\UI\Services\Windows\IWindowService.cs" />
     <Compile Include="Assets\Scripts\Services\Input\StandaloneInputService.cs" />
     <Compile Include="Assets\Scripts\Constants.cs" />
     <Compile Include="Assets\Free UI build package\Script\Slide.cs" />
@@ -85,12 +87,13 @@
     <Compile Include="Assets\Free UI build package\Script\Togglescript.cs" />
     <Compile Include="Assets\Scripts\Data\KillData.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\GameRunner.cs" />
+    <Compile Include="Assets\Scripts\StaticData\Windows\WindowConfig.cs" />
+    <Compile Include="Assets\Scripts\UI\Elements\WindowButton.cs" />
     <Compile Include="Assets\Scripts\Player\HeroMove.cs" />
     <Compile Include="Assets\Scripts\Player\HeroAnimator.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleCountdownLabel.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\ICoroutineRunner.cs" />
     <Compile Include="Assets\Scripts\Data\LootData.cs" />
-    <Compile Include="Assets\Scripts\Infrastructure\States\IAssets.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\LoadSceneState.cs" />
     <Compile Include="Assets\Scripts\Data\WorldData.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\AssetManagement\AssetProvider.cs" />
@@ -98,25 +101,28 @@
     <Compile Include="Assets\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Enemy\PhysicsDebug.cs" />
     <Compile Include="Assets\Scripts\Logic\UniqueId.cs" />
+    <Compile Include="Assets\Scripts\UI\Elements\ActorUI.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleButtonAction.cs" />
     <Compile Include="Assets\Scripts\Data\PlayerProgress.cs" />
     <Compile Include="Assets\Scripts\Services\PersistentProgress\ISavedProgress.cs" />
     <Compile Include="Assets\Scripts\Enemy\Attack.cs" />
+    <Compile Include="Assets\Scripts\UI\Windows\WindowBase.cs" />
     <Compile Include="Assets\Scripts\Services\PersistentProgress\IPersistentProgressService.cs" />
     <Compile Include="Assets\Scripts\Enemy\LootPiece.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\AssetManagement\AssetPath.cs" />
     <Compile Include="Assets\Scripts\Services\Input\InputService.cs" />
     <Compile Include="Assets\Scripts\Logic\LoadingCurtain.cs" />
+    <Compile Include="Assets\Scripts\UI\Services\Windows\WindowId.cs" />
     <Compile Include="Assets\Scripts\StaticData\MonsterStaticData.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\GameLoopState.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleSceneLoader.cs" />
     <Compile Include="Assets\Scripts\StaticData\StaticDataService.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\IState.cs" />
-    <Compile Include="Assets\Scripts\UI\LootCounter.cs" />
     <Compile Include="Assets\Scripts\Player\HeroAttack.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\Services\IStaticDataService.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\Factory\IGameFactory.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\States\LoadProgressState.cs" />
+    <Compile Include="Assets\Scripts\UI\Services\Factory\IUIFactory.cs" />
     <Compile Include="Assets\Scripts\Data\Loot.cs" />
     <Compile Include="Assets\Scripts\Data\Vector3Data.cs" />
     <Compile Include="Assets\Scripts\CameraLogic\CameraFollow.cs" />
@@ -128,28 +134,31 @@
     <Compile Include="Assets\Scripts\Player\HeroHealth.cs" />
     <Compile Include="Assets\Scripts\Logic\AnimatorState.cs" />
     <Compile Include="Assets\Scripts\Logic\MonsterTypeId.cs" />
-    <Compile Include="Assets\Scripts\UI\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\StaticData\Windows\WindowStaticData.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\Services\IService.cs" />
     <Compile Include="Assets\Scripts\Data\State.cs" />
     <Compile Include="Assets\Scripts\Services\Randomizer\IRandomService.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\Game.cs" />
     <Compile Include="Assets\Scripts\Enemy\TriggerObserver.cs" />
     <Compile Include="Assets\Scripts\Player\HeroDeath.cs" />
+    <Compile Include="Assets\Scripts\UI\Elements\LookAtCamera.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleRadialFillBar.cs" />
     <Compile Include="Assets\Scripts\Enemy\CheckAttackRange.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\SceneLoader.cs" />
     <Compile Include="Assets\Scripts\Logic\IAnimationStateReader.cs" />
     <Compile Include="Assets\Scripts\Enemy\RotateToHero.cs" />
-    <Compile Include="Assets\Scripts\UI\ActorUI.cs" />
     <Compile Include="Assets\Scripts\Services\SaveLoad\ISaveLoadService.cs" />
     <Compile Include="Assets\Scripts\Enemy\EnemyAnimator.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleOscillateSliders.cs" />
+    <Compile Include="Assets\Scripts\UI\Elements\LootCounter.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleScrollUV.cs" />
     <Compile Include="Assets\Scripts\Services\PersistentProgress\PersistentProgressService.cs" />
+    <Compile Include="Assets\Scripts\UI\Services\Factory\UIFactory.cs" />
     <Compile Include="Assets\Scripts\Infrastructure\GameBootstrapper.cs" />
     <Compile Include="Assets\Scripts\Data\Stats.cs" />
     <Compile Include="Assets\Packages\Synty\InterfaceFantasyWarriorHUD\Samples\Scripts\SampleTimeLabel.cs" />
     <Compile Include="Assets\Scripts\Logic\EnemySpawners\SpawnPoint.cs" />
+    <Compile Include="Assets\Scripts\UI\Elements\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Logic\EnemySpawners\SpawnMarker.cs" />
     <Compile Include="Assets\Scripts\Enemy\Follow.cs" />
   </ItemGroup>
@@ -814,6 +823,9 @@
     <Reference Include="UniTask.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\UniTask.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -826,14 +838,14 @@
     <Reference Include="UniTask.Addressables">
       <HintPath>Library\ScriptAssemblies\UniTask.Addressables.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
@@ -844,14 +856,20 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UniTask.Linq">
       <HintPath>Library\ScriptAssemblies\UniTask.Linq.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+    <Reference Include="UnityEngine.Advertisements.Editor">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
